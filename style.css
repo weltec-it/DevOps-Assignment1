@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #337ab7;
+}
+
+#time {
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+#timeBtn {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#timeBtn:hover {
+    background-color: #286090;
+}
