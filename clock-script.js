@@ -21,5 +21,5 @@ document.getElementById('timeBtn').addEventListener('click', function() {
     }
     
 	var timeString = hours + ':' + minutes + '.' + seconds + ' ';
-    document.getElementById('time').innerHTML = 'The current time is: ' + timeString;
+    document.getElementById('time').innerHTML = 'The current time is: ' + timeString + period;
 });
